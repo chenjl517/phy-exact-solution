@@ -5,4 +5,5 @@ When developing algorithms, it is often necessary to benchmark some commonly use
 The current models are:
 1. One-dimensional Ising model;
 2. Two-dimensional Ising model;
-3. One-dimensional transverse field quantum Ising model.
+3. One-dimensional transverse field quantum Ising model;
+4. High Temperature Expansion for 1D Heisenberg Model.
